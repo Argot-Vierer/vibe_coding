@@ -1,6 +1,6 @@
 # Personal Website
 
-This is a simple personal website that showcases information about myself. The website includes minimal JavaScript functionality for interactivity and is designed to be clean and user-friendly.
+This is a simple project of a personal website that showcases "information about myself". The website includes minimal JavaScript functionality for interactivity and is designed to be clean and user-friendly. Use it if you want a basic website :) 
 
 ## Project Structure
 
